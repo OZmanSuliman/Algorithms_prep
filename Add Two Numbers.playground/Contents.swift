@@ -1,5 +1,9 @@
 import UIKit
 
+/*
+ in the video a ListNode is used
+ in my case I'm using an Array as you can see
+ */
 
 func sum(value1: [Int], value2: [Int]) -> Int {
     var list1 = value1
