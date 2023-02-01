@@ -1,4 +1,8 @@
-# Algorithms_prep
+# Algorithms Interviews preparation
+
+I collected These videos from NeetCode Channel. I find out these some of the most useful resources to give boost for the Algorithms Interviews and after watching these videos it will make every Algorithms Interview feels easy.
+
+the code in the videos written in Python. You can find Swift code in this repository.
 
 
 | Problem | Rate | Video Link |
